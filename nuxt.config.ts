@@ -2,6 +2,7 @@ import AutoImport from "unplugin-auto-import/vite";
 import { NaiveUiResolver } from "unplugin-vue-components/resolvers";
 import Components from "unplugin-vue-components/vite";
 import pkg from "./package.json";
+import { Analytics } from '@vercel/analytics/nuxt'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
