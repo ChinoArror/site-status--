@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md)
+1English | [简体中文](./README.zh-CN.md)
 
 <div align="center">
 <h1>site-status</h1>
